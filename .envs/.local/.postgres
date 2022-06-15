@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=git_sync
+POSTGRES_USER=ZqJERAAoHmsaGkGxtTNeNGvqQTzdTfEH
+POSTGRES_PASSWORD=qtSCNsxLN0HqOHVrV7M2xwg2WoEDLfckrMdms6fXzNferAsExQ8UbOXP7hUwftpI

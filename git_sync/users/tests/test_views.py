@@ -11,11 +11,7 @@ from django.urls import reverse
 from git_sync.users.forms import UserAdminChangeForm
 from git_sync.users.models import User
 from git_sync.users.tests.factories import UserFactory
-from git_sync.users.views import (
-    UserRedirectView,
-    UserUpdateView,
-    user_detail_view,
-)
+from git_sync.users.views import UserRedirectView, UserUpdateView, user_detail_view
 
 pytestmark = pytest.mark.django_db
 
